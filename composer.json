@@ -1,0 +1,15 @@
+{
+    "name": "userpassp1ss/kino-bot",
+    "description": "Telegram bot for managing and sharing movies",
+    "type": "project",
+    "require": {
+        "php": ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,21 @@
+# Vaqtinchalik fayllar va papkalar
+step/
+kino/
+*.txt
+
+# PHP kesh fayllari
+*.cache
+
+# Muhit o‘zgaruvchilari yoki maxfiy fayllar
+.env
+config.php
+
+# IDE va muharrir fayllari
+.vscode/
+.idea/
+
+# Log fayllari
+*.log
+
+# Kompyuter xos fayllar
+.DS_Store
